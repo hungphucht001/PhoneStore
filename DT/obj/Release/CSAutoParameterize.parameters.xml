@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbPhoneStoreEntities-Web.config Connection String" description="dbPhoneStoreEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Entity.dbPhoneStore.csdl|res://*/Entity.dbPhoneStore.ssdl|res://*/Entity.dbPhoneStore.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=SQL8004.site4now.net;initial catalog=db_a8afff_hung;User Id=db_a8afff_hung_admin;Password=hungphuc001;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Workspace\\asp\\student-project-asp-mvc-backend\\DT\\DT\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbPhoneStoreEntities']/@connectionString" />
+  </parameter>
+</parameters>

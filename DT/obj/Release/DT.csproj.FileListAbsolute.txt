@@ -1,0 +1,323 @@
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\DT.dll.config
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\DT.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\DT.pdb
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\csc.exe
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\csc.exe.config
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\csc.rsp
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\csi.exe
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\csi.exe.config
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\csi.rsp
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.AppContext.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Collections.Immutable.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Console.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Globalization.Calendars.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.IO.Compression.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.IO.FileSystem.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Net.Http.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Net.Sockets.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Reflection.Metadata.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.ValueTuple.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Xml.XPath.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\vbc.exe
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\vbc.exe.config
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\vbc.rsp
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\VBCSCompiler.exe
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\roslyn\VBCSCompiler.exe.config
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Antlr3.Runtime.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\EntityFramework.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\EntityFramework.SqlServer.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authorization.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Routing.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.DependencyModel.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.ObjectPool.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Options.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Primitives.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Net.Http.Headers.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Web.Infrastructure.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Newtonsoft.Json.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\PagedList.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\PagedList.Mvc.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Buffers.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.ComponentModel.Annotations.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Diagnostics.DiagnosticSource.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Memory.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Net.Http.Formatting.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Numerics.Vectors.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Text.Encodings.Web.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Threading.Tasks.Extensions.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Helpers.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Http.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Http.WebHost.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Mvc.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Optimization.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Razor.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.WebPages.Deployment.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.WebPages.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.WebPages.Razor.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\WebGrease.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\EntityFramework.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\EntityFramework.SqlServer.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authorization.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Routing.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.ObjectPool.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Options.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Extensions.Primitives.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.Net.Http.Headers.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\PagedList.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\PagedList.Mvc.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Buffers.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Diagnostics.DiagnosticSource.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Memory.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Net.Http.Formatting.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Numerics.Vectors.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Text.Encodings.Web.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Threading.Tasks.Extensions.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Http.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Http.WebHost.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Helpers.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Mvc.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Optimization.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.Razor.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.WebPages.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.WebPages.Deployment.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\System.Web.WebPages.Razor.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Newtonsoft.Json.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Antlr3.Runtime.pdb
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\obj\Release\DT.csproj.AssemblyReference.cache
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\obj\Release\DT.csproj.CoreCompileInputs.cache
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\obj\Release\DT.dll
+E:\HNAL\HocTap\CNW\Đồ Án\DT\DT\obj\Release\DT.pdb
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\DT.dll.config
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\DT.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\DT.pdb
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\csc.exe
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\csc.exe.config
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\csc.rsp
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\csi.exe
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\csi.exe.config
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\csi.rsp
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.AppContext.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Console.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Globalization.Calendars.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.IO.Compression.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.IO.FileSystem.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Net.Http.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Net.Sockets.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.ValueTuple.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Xml.XPath.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\vbc.exe
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\vbc.exe.config
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\vbc.rsp
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Antlr3.Runtime.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\EntityFramework.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\EntityFramework.SqlServer.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Routing.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Options.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Primitives.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Net.Http.Headers.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Newtonsoft.Json.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\PagedList.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\PagedList.Mvc.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Buffers.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.ComponentModel.Annotations.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Memory.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Net.Http.Formatting.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Numerics.Vectors.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Text.Encodings.Web.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Threading.Tasks.Extensions.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Helpers.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Http.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Http.WebHost.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Mvc.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Optimization.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Razor.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.WebPages.Deployment.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.WebPages.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.WebPages.Razor.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\WebGrease.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\EntityFramework.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\EntityFramework.SqlServer.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Routing.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Options.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Extensions.Primitives.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.Net.Http.Headers.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\PagedList.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\PagedList.Mvc.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Buffers.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Memory.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Net.Http.Formatting.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Numerics.Vectors.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Text.Encodings.Web.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Threading.Tasks.Extensions.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Http.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Http.WebHost.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Helpers.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Mvc.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Optimization.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.Razor.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.WebPages.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.WebPages.Deployment.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\System.Web.WebPages.Razor.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Newtonsoft.Json.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Antlr3.Runtime.pdb
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\obj\Release\DT.csproj.AssemblyReference.cache
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\obj\Release\DT.csproj.CoreCompileInputs.cache
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\obj\Release\DT.csproj.CopyComplete
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\obj\Release\DT.dll
+E:\Workspace\asp\student-project-asp-mvc-backend\DT\DT\obj\Release\DT.pdb
